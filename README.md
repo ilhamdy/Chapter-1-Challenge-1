@@ -67,7 +67,7 @@ func main() {
 }
 
 ```
-![](Output-Challenge 1.png?raw=true)
+![](<Output-Challenge 1.png?raw=true>)
 </p>
 </details>
 
