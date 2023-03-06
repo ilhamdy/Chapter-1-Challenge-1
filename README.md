@@ -67,7 +67,7 @@ func main() {
 }
 
 ```
-Output-Challenge 1.png
+!(Output-Challenge 1.png)
 </p>
 </details>
 
