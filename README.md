@@ -14,7 +14,7 @@ Go Programming Introduction
 <p>
 
 ```ruby
-   package main
+package main
 
 import "fmt"
 
@@ -70,3 +70,4 @@ func main() {
 
 </p>
 </details>
+
