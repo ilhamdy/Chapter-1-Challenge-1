@@ -23,7 +23,7 @@ func main() {
 		i                    = 21
 		j            bool    = true
 		base16               = 15
-		unicodeRusia         = 'Я'
+		unicodeRusia rune    = '\u042F'
 		k            float64 = 123.456
 	)
 	// menampilkan nilai i
@@ -40,6 +40,9 @@ func main() {
 
 	// menampilkan nilai base 2 dari i : 10101
 	fmt.Printf("%b\n", i)
+
+	// menampilkan unicode Rusia Я
+	fmt.Println(string(unicodeRusia))
 
 	// menampilkan nilai base 10 dari i : 21
 	fmt.Println(i)
